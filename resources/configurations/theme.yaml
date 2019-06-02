@@ -1,0 +1,40 @@
+screen:
+  color:
+    background: 0xff0000ff
+window:
+  title:
+    color:
+      background: 0xff0000ff
+      close: 0xffffffff
+      minimum: 0xffffffff
+      maximum: 0xffffffff
+      frame: 0x000000ff
+    size:
+      height: 10
+      button-width: 10
+      frame-width: 2
+  main:
+    color:
+      background: 0xffffffff
+      frame: 0x000000ff
+    size:
+      frame: 2
+      left-gap: 5
+      bottom-gap: 5
+      right-gap: 5
+  client:
+    color:
+      background: 0xffffffff
+    size:
+button:
+  color:
+    background: 0xffffffff
+    frame: 0x000000ff
+    text: 0x000000ff
+  size:
+    frame: 2
+    width: 100
+    height: 40
+    text-width: 80
+    text-height: 30
+
